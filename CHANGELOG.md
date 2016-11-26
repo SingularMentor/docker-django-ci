@@ -9,5 +9,6 @@ convention
 ### Fixed
 - Missing `install` command in `apt-get` step.
 
+## [1.0.0] - 2016-11-26
 ### Added
 - Initial content for image.
