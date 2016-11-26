@@ -1,10 +1,7 @@
-# Docker Base CI
+# Docker Python CI
 
-A base Docker image to build CI environments. Included tools:
+A Docker image to build CI environments for Python based projects. Included
+tools:
 
-* OpenSSH client
-* curl
-* git
-* rsync
-* telnet
-* vim
+* Python PIP
+* Python DEV package.
