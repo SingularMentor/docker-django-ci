@@ -5,3 +5,4 @@ tools:
 
 * Python PIP
 * Python DEV package.
+* PostgreSQL support.
